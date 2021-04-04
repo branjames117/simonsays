@@ -2,6 +2,6 @@ My variant of the Simon Says app from Section 15 of The Complete 2021 Web Develo
 
 Features added not featured in project:
  - shape more resembles classic Simon Says game
- - high score display in the middle button
+ - high score display in the middle of board
  - entire pattern plays before each round
  - user input is disabled while pattern is playing
